@@ -1,5 +1,4 @@
 # Hand Laterality Judgement Task - Forced Response (HLJT-FR)
-**THIS IS STILL WORK IN PROGRESS**
 
 The HLJT is a behavioural paradigm aiming to assess the ability to manipulate movement imagery. If you are interested in assessing Movement Imagery ability, visit this [Task Platform Project](https://movementimageryability.github.io/) for an overview of open-source behavioural tasks.
 
