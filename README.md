@@ -9,12 +9,6 @@ This repository contains a template of an **open-source (and user-friendly)** HL
 
 Subsequent updates in native software ([PsychoPy](https://www.psychopy.org/)) may need adjustments. As developers, we are not responsible for implementing these in every use case.
 
-An example of the setup is shown below.
-![HLJT Animation](HLJT_FR_example.gif)
-
-## Repository information
-
-
 ## Language expansion
 If you want to contribute to this repository by providing a language translation, or want to run the task in your own language, expansions can be done relatively easily thanks to the implementation of **language localisations** (please read each Readme to understand how to implement these). You can also see [this demo](https://github.com/mmorenoverdu/language_localisation_local) showing how to implement a language localisation in PsychoPy with virtually no code (for local use only).
 
